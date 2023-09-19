@@ -1,13 +1,11 @@
 # Thay1601.github.io
-<h1 align = "center"> Olá 👋, sou Raphael Olimpio💻 </h1>
-<h3 align = "center">✨Seja Bem-vindo (a)!</h3>
+<h1 align = "center"> Olá 👋, sou Thay Ribeiro💻 </h1>
+<h3 align = "center">✨Seja Bem-vindo(a)!</h3>
 
 ### 🦸🏻‍♀️ Um pouco sobre mim:
 - 🎓 Analise e desenvolvimento de sistemas
-- 🚀 Programador e desenvolvedor
-- ❤ Amor Imenso por cachorros🐶, natureza🌻, séries🎬, documentários📖 e jogos🎮
-- 📊<a target="_blank" href="https://github.com/Rapha29/CERFITICADOS"> Certificados </a>
-- 💻<a target="_blank" href="https://rapha29.github.io/"> Pequeno Projeto </a>
+- ❤ Amor Imenso por cachorros🐶, filmes🎬, documentários e leitura 📖
+- 📊<a target="_blank" href="https://github.com/Thay1601/Certificados"> Certificados </a>
 
 
 
@@ -23,7 +21,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="0">
 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="93">
 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="10">
 
@@ -45,5 +43,5 @@
 
 
 ### 📊 GitHub estatísticas:
-<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Rapha29&show_icons=true&locale=en&layout=compact" alt = "Thay Ribeiro" /> </p>
+<p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Thay1601&show_icons=true&locale=en&layout=compact" alt = "Thay Ribeiro" /> </p>
 <br><br>

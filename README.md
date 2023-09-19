@@ -1,6 +1,6 @@
-<h1 align = "center">About Thayna L. Ribeiro💻 </h1>
+<h1 align = "center"> Thayna L. Ribeiro💻 </h1>
 - 🎓 Analise e desenvolvimento de sistemas <br>
-- 🚀 Programador e desenvolvedor  <br>
+- 🚀 Programador e Desenvolvedor  <br>
 - ❤ Amor Imenso por cachorros🐶 e Músicas, Filmes e Séries🎬, Documentários e Leitura📖  <br>
 - 📊<a target="_blank" href="https://github.com/Thay1601/Certificados"> Certificados </a> <br>
 - 💻<a target="_blank" href="https://github.com/Thay1601"> Pequeno Projeto </a> <br>

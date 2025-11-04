@@ -30,7 +30,7 @@
 
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="15">
 
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width=0">
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width=10">
 
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="15">
 
